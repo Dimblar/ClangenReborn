@@ -1,0 +1,149 @@
+﻿<!-- TODO -> Look for a better way to implement, its a little sore on the eyes and hard to understand. -->
+
+<TintConfigDef>
+	<Tint>
+		<Colors>
+			<li Id = "Orange" Value = "(255, 247, 235)"/>
+			<li Id = "Purple" Value = "(235, 225, 244)"/>
+			<li Id = "Yellow" Value = "(250, 248, 225)"/>
+			<li Id = "Black"  Value = "(195, 195, 195)"/>
+			<li Id = "Blue"   Value = "(218, 237, 245)"/>
+			<li Id = "Grey"   Value = "(225, 225, 225)"/>
+			<li Id = "Pink"   Value = "(253, 237, 237)"/>
+			<li Id = "Red"    Value = "(248, 226, 228)"/>
+		</Colors>
+		<Group Id = "White">
+			<AllowedColors>
+				<li>White</li>
+			</AllowedColors>
+			<PossibleTints>
+				<li>Yellow</li>
+			</PossibleTints>
+		</Group>
+		<Group Id = "Cool">
+			<AllowedColors>
+				<li>Palegrey</li>
+				<li>Silver</li>
+			</AllowedColors>
+			<PossibleTints>
+				<li>Blue</li>
+				<li>Purple</li>
+				<li>Black</li>
+			</PossibleTints>
+		</Group>
+		<Group Id = "Monochrome">
+			<AllowedColors>
+				<li>Grey</li>
+				<li>Darkgrey</li>
+				<li>Ghost</li>
+				<li>Black</li>
+			</AllowedColors>
+			<PossibleTints>
+				<li>Blue</li>
+				<li>Black</li>
+			</PossibleTints>
+		</Group>
+		<Group Id = "Warm">
+			<AllowedColors>
+				<li>Cream</li>
+				<li>Paleginger</li>
+				<li>Golden</li>
+				<li>Ginger</li>
+				<li>Darkginger</li>
+			</AllowedColors>
+			<PossibleTints>
+				<li>Yellow</li>
+				<li>Purple</li>
+			</PossibleTints>
+		</Group>
+		<Group Id = "Brown">
+			<AllowedColors>
+				<li>Sienna</li>
+				<li>Lightbrown</li>
+				<li>Lilac</li>
+				<li>Brown</li>
+				<li>Goldenbrown</li>
+				<li>Darkbrown</li>
+				<li>Chocolate</li>
+			</AllowedColors>
+			<PossibleTints>
+				<li>Yellow</li>
+				<li>Purple</li>
+				<li>Black</li>
+			</PossibleTints>
+		</Group>
+		<Group Id = "Basic">
+			<PossibleTints>
+				<li>Pink</li>
+				<li>Grey</li>
+				<li>Red</li>
+				<li>Orange</li>
+			</PossibleTints>
+		</Group>
+	</Tint>
+	<WhiteTint>
+		<Colors>
+			<li Id = "Darkcream" Value = "(236, 229, 208)"/>
+			<li Id = "Offwhite"	 Value = "(238, 249, 252)"/>
+			<li Id = "Cream"	 Value = "(247, 241, 225)"/>
+			<li Id = "Grey"		 Value = "(208, 225, 229)"/>
+			<li Id = "Pink"		 Value = "(254, 248, 249)"/>
+		</Colors>
+		<Group Id = "Grey">
+			<AllowedColors>
+				<li>Palegrey</li>
+				<li>Silver</li>
+				<li>Grey</li>
+			</AllowedColors>
+			<PossibleTints>
+				<li>Grey</li>
+			</PossibleTints>
+		</Group>
+		<Group Id = "Black">
+			<AllowedColors>
+				<li>Darkgrey</li>
+				<li>Ghost</li>
+				<li>Black</li>
+			</AllowedColors>
+			<PossibleTints>
+				<li>Grey</li>
+				<li>Darkcream</li>
+				<li>Cream</li>
+			</PossibleTints>
+		</Group>
+		<Group Id = "Ginger">
+			<AllowedColors>
+				<li>Cream</li>
+				<li>Paleginger</li>
+				<li>Golden</li>
+				<li>Ginger</li>
+				<li>Darkginger</li>
+				<li>Sienna</li>
+			</AllowedColors>
+			<PossibleTints>
+				<li>Darkcream</li>
+				<li>Cream</li>
+				<li>Pink</li>
+			</PossibleTints>
+		</Group>
+		<Group Id = "Brown">
+			<AllowedColors>
+				<li>Lightbrown</li>
+				<li>Lilac</li>
+				<li>Brown</li>
+				<li>Goldenbrown</li>
+				<li>Darkbrown</li>
+				<li>Chocolate</li>
+			</AllowedColors>
+			<PossibleTints>
+				<li>Darkcream</li>
+				<li>Cream</li>
+			</PossibleTints>
+		</Group>		
+		<Group Id = "Basic">
+			<PossibleTints>
+				<li>Offwhite</li>
+			</PossibleTints>
+		</Group>
+	</WhiteTint>
+</TintConfigDef>

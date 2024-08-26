@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ComponentDef>
+	<Component Id = "Frame1">
+		<Texture>UI/Borders/Frame1.png</Texture>
+		<Regions>
+			
+		</Regions>
+	</Component>
+
+	<Component Id = "SmallIcon">
+		<Texture>UI/Borders/IconSmall.png</Texture>
+		<Regions>
+			
+		</Regions>
+	</Component>
+</ComponentDef>

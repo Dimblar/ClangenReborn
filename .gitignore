@@ -1,0 +1,23 @@
+#####  Development things  #####
+__SHARED_PROFILE
+
+.git/
+.vs/
+bin/
+obj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+##### Miscellaneous #####
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db

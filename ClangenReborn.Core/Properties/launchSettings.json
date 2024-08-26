@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClangenReborn.Core": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}

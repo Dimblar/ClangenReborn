@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<PeltPoseDefs>
+	<PoseDef Id = "Default" Rows = "7" Columns = "3">
+		<li Id = "Kit0"/>
+		<li Id = "Kit1"/>
+		<li Id = "Kit2"/>
+		<li Id = "Adolescent0"/>
+		<li Id = "Adolescent1"/>
+		<li Id = "Adolescent2"/>
+		<li Id = "YoungShort"/>
+		<li Id = "AdultShort"/>
+		<li Id = "SeniorShort"/>
+		<li Id = "YoungLong"/>
+		<li Id = "AdultLong"/>
+		<li Id = "SeniorLong"/>
+		<li Id = "Senior0"/>
+		<li Id = "Senior1"/>
+		<li Id = "Senior2"/>
+		<li Id = "ParalyzedShort"/>
+		<li Id = "ParalyzedLong"/>
+		<li Id = "ParalyzedAdolescent"/>
+		<li Id = "SickAdult"/>
+		<li Id = "SickYoung"/>
+		<li Id = "Newborn"/>
+	</PoseDef>
+</PeltPoseDefs>

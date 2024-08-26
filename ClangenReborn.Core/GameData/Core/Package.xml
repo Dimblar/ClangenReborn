@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- TODO: Implement version-specific attributes , aswell as dependancies and conflicting mods -->
+
+<!-- Id:
+		The in-game Id used for the game, and is the only required attribute or element to define a mod. Converts to lowercase. -->
+<ContentPackDef Id = "core">
+	<!-- (Optional) A string or TranslationKey representing the name that'll be shown in the mod menu. Defaults to this mod Id. -->
+	<Name>Core</Name>
+
+	<!-- (Optional) A string or TranslationKey representing a brief description of the pack. -->
+	<Description>The game!</Description>
+
+	<!-- (Optional) A path to a .ico or .png in the Resources folder to be shown in the mod manager, will be resized to 64x64 size icons.
+		Defaults to the base games icon. -->
+	<Icon>Game.ico</Icon>
+
+	<!-- (Optional) A path to a .png in the Resources folder to be shown when selected in the mod manager.
+		Defaults to Thumbnail.png in mod root folder. If nothing is found there, no image will be used. -->
+	<Thumbnail></Thumbnail>
+
+	<!-- (Optional) A list of authors. -->
+	<Authors>
+		<li>Dnbow</li>
+		<li>Dimblar</li>
+	</Authors>
+
+	<!-- NOTE: Will be removed in favor of version-specific package defs -->
+	<SupportedVersions>
+		<li>0.0.0</li>
+	</SupportedVersions>
+</ContentPackDef>

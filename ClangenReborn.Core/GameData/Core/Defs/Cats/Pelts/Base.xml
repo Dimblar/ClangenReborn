@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<PeltDefs>
+	<PeltDef Id = "Agouti">
+		<Texture>Sprites/ColoursAgouti.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Bengal">
+		<Texture>Sprites/ColoursBengal.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Classic">
+		<Texture>Sprites/ColoursClassic.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Mackerel">
+		<Texture>Sprites/ColoursMackerel.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Marbled">
+		<Texture>Sprites/ColoursMarbled.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Masked">
+		<Texture>Sprites/ColoursMasked.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Rosette">
+		<Texture>Sprites/ColoursRosette.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Single">
+		<Texture>Sprites/ColoursSingle.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Singlestripe">
+		<Texture>Sprites/ColoursSinglestripe.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Smoke">
+		<Texture>Sprites/ColoursSmoke.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Sokoke">
+		<Texture>Sprites/ColoursSokoke.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Speckled">
+		<Texture>Sprites/ColoursSpeckled.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Tabby">
+		<Texture>Sprites/ColoursTabby.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+	<PeltDef Id = "Ticked">
+		<Texture>Sprites/ColoursTicked.png</Texture>
+		<Regions Width = "7" Height = "3" PoseSet = "Default">
+			<li Color = "White"/>
+			<li Color = "Palegrey"/>
+			<li Color = "Silver"/>
+			<li Color = "Grey"/>
+			<li Color = "Darkgrey"/>
+			<li Color = "Ghost"/>
+			<li Color = "Black"/>
+			<li Color = "Cream"/>
+			<li Color = "Paleginger"/>
+			<li Color = "Golden"/>
+			<li Color = "Ginger"/>
+			<li Color = "Darkginger"/>
+			<li Color = "Sienna"/>
+			<li/>
+			<li Color = "Lightbrown"/>
+			<li Color = "Lilac"/>
+			<li Color = "Brown"/>
+			<li Color = "Goldbrown"/>
+			<li Color = "Darkbrown"/>
+			<li Color = "Chocolate"/>
+			<li/>
+		</Regions>
+	</PeltDef>
+</PeltDefs>

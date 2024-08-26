@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LocaleDefs>
+	<!-- Id: 
+			Internal id that the game will use.
+	   Path: 
+			The folder within "Locale" that holds all the translations. -->
+	<Locale Id = "LEnglish" Path = "en-GB">
+		<!-- (Optional) The name of the language in its native language, will default to id. -->
+		<Name>English</Name>
+		
+		<!-- (Optional) If this language is a specific dialect, put it here. -->
+		<Dialect>United Kingdom</Dialect>
+		
+		<!-- (Optional) The name of this language native to other languages, will display any languages' native name that is not given in aliases.  -->
+		<Aliases>
+			<li Id ="" Name = ""/>
+ 		</Aliases>
+		
+		<!-- (Optional) The character sets used by this language. Helps with checking whether or not fonts support them. -->
+		<Charsets>
+			<li>Latin</li>
+		</Charsets>
+	</Locale>
+</LocaleDefs>

@@ -1,0 +1,21 @@
+# Pronouns
+They:
+    Subjective: "they"
+    Objective: "them"
+    Possessive: "theirs"
+    PossessiveAdj: "their"
+    Reflexive: "themself"
+
+He:
+    Subjective: "she"
+    Objective: "her"
+    Possessive: "hers"
+    PossessiveAdj: "her"
+    Reflexive: "herself"
+
+She:
+    Subjective: "he"
+    Objective: "him"
+    Possessive: "his"
+    PossessiveAdj: "his"
+    Reflexive: "himself"

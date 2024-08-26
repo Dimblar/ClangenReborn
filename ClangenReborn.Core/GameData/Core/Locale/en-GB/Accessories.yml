@@ -1,0 +1,547 @@
+Accessory:
+    MapleLeaf:
+        Default: "maple leaf"
+        Plural: "maple leaves"
+        Singular: "maple leaf"
+
+    Holly:
+        Default: "holly"
+        Plural: "holly"
+        Singular: "holly"
+
+    BlueBerries:
+        Default: "blue berries"
+        Plural: "blue berries"
+        Singular: "blue berry"
+
+    ForgetMeNots:
+        Default: "forget-me-not flowers"
+        Plural: "forget-me-not flowers"
+        Singular: "forget-me-not flower"
+
+    RyeStalk:
+        Default: "rye stalk"
+        Plural: "rye stalks"
+        Singular: "rye stalk"
+    
+    Laurel:
+        Default: "laurel"
+        Plural: "laurels"
+        Singular: "laurel"
+        
+    Bluebells:
+        Default: "bluebells"
+        Plural: "bluebells"
+        Singular: "bluebell"
+    
+    Nettle:
+        Default: "nettle"
+        Plural: "nettles"
+        Singular: "nettle"
+
+    Poppy:
+        Default: "poppy"
+        Plural: "poppies"
+        Singular: "poppy"
+    
+    Lavender:
+        Default: "lavender"
+        Plural: "lavender flowers"
+        Singular: "lavender"
+        
+    Herbs:
+        Default: "herb-covered pelt"
+        Plural: "herbs"
+
+        # Comment from scribble
+        #   just 'herb' sounds wrong, since the acc is visually multiple leaves on the cat. so i've structured,
+        #   this in a way that allows it to sound correct when used for the singular_acc abbreviation
+        Singular: "bunch of herbs"
+    
+    Petals:
+        Default: "petal-covered pelt"
+        Plural: "petals"
+        Singular: "bunch of petals"
+        # Comment from scribble
+        #   just 'petal' sounds wrong, since the acc is visually multiple petals on the cat. so i've structured
+        #   this in a way that allows it to sound correct when used for the singular_acc abbreviation
+    
+    DryHerbs:
+        Default: "herb-covered pelt"
+        Plural: "dry herbs"
+        Singular: "bunch of dry herbs"
+        # Comment from scribble
+        #   just 'dry herb' sounds wrong, since the acc is visually multiple leaves on the cat. so i've structured
+        #   this in a way that allows it to sound correct when used for the singular_acc abbreviation
+    
+    DryCatmint:
+        Default: "dried catmint"
+        Plural: "dry catmint"
+        Singular: "dried catmint"
+    
+    DryNettles:
+        Default: "dried nettles"
+        Plural: "dry nettles"
+        Singular: "dried nettle"
+    
+    OakLeaves:
+        Default: "oak leaves"
+        Plural: "oak leaves"
+        Singular: "oak leaf"
+    
+    Catmint:
+        Default: "catmint"
+        Plural: "catmint"
+        Singular: "catmint"
+    
+    MapleSeed:
+        Default: "maple seed"
+        Plural: "maple seeds"
+        Singular: "maple seed"
+    
+    Juniper:
+        Default: "juniper"
+        Plural: "juniper"
+        Singular: "juniper"
+    
+    RedFeathers:
+        Default: "cardinal feathers"
+        Plural: "cardinal feathers"
+        Singular: "cardinal feather"
+    
+    BlueFeathers:
+        Default: "crow feathers"
+        Plural: "crow feathers"
+        Singular: "crow feather"
+    
+    JayFeathers:
+        Default: "jay feathers"
+        Plural: "jay feathers"
+        Singular: "jay feather"
+    
+    MothWings:
+        Default: "moth wings"
+        Plural: "moth wings"
+        Singular: "moth wing"
+    
+    CicadaWings:
+        Default: "cicada wings"
+        Plural: "cicada wings"
+        Singular: "cicada wing"
+    
+    OrangePoppy:
+        Default: "orange poppy"
+        Plural: "orange poppies"
+        Singular: "orange poppy"
+
+    CyanPoppy:
+        Default: "cyan poppy"
+        Plural: "cyan poppies"
+        Singular: "cyan poppy"
+    
+    WhitePoppy:
+        Default: "white poppy"
+        Plural: "white poppies"
+        Singular: "white poppy"
+    
+    PinkPoppy:
+        Default: "pink poppy"
+        Plural: "pink poppies"
+        Singular: "pink poppy"
+
+    Clover:
+        Default: "clover tail"
+        Plural: "clovers"
+        Singular: "bunch of clovers"
+    
+    Daisy:
+        Default: "daisy tail"
+        Plural: "daisies"
+        Singular: "bunch of daisies"
+
+    LilyOfTheValley:
+        Default: "lily of the valley"
+        Plural: "lilies of the valley"
+        Singular: "lily of the valley"
+    
+    Heather:
+        Default: "heather"
+        Plural: "heather"
+        Singular: "heather"
+    
+    SnapDragon:
+        Default: "snapdragon"
+        Plural: "snapdragons"
+        Singular: "snapdragon"
+
+    Gorse:
+        Default: "gorse flowers"
+        Plural: "gorse flowers"
+        Singular: "gorse flowers"
+    
+    BulbWhite:
+        Default: "white flower bulb"
+        Plural: "white flower bulbs"
+        Singular: "white flower bulb"
+
+    BulbYellow:
+        Default: "yellow flower bulb"
+        Plural: "yellow flower bulbs"
+        Singular: "yellow flower bulb"
+    
+    BulbOrange:
+        Default: "orange flower bulb"
+        Plural: "orange flower bulbs"
+        Singular: "orange flower bulb"
+    
+    BulbPink:
+        Default: "pink flower bulb"
+        Plural: "pink flower bulbs"
+        Singular: "pink flower bulb"
+
+    BulbBlue:
+        Default: "blue flower bulb"
+        Plural: "blue flower bulbs"
+        Singular: "blue flower bulb"
+    
+    Raspberry:
+        Default: "raspberries"
+        Plural: "raspberries"
+        Singular: "raspberry"
+
+    Cattail:
+        Default: "cattail"
+        Plural: "cattails"
+        Singular: "cattail"
+    
+    GullFeathers:
+        Default: "gull feathers"
+        Plural: "gull feathers"
+        Singular: "gull feather"
+    
+    SparrowFeathers:
+        Default: "sparrow feathers"
+        Plural: "sparrow feathers"
+        Singular: "sparrow feather"
+
+    RosyMothWings:
+        Default: "rosy maple moth wings"
+        Plural: "rosy maple moth wings"
+        Singular: "rosy maple moth"
+    
+    MorphoButterfly:
+        Default: "morpho butterfly wings"
+        Plural: "morpho butterfly wings"
+        Singular: "morpho butterfly"
+
+    MonarchButterfly:
+        Default: "monarch butterfly wings"
+        Plural: "monarch butterfly wings"
+        Singular: "monarch butterfly"
+    
+    BlackCicada:
+        Default: "black cicada wings"
+        Plural: "black cicada wings"
+        Singular: "black cicada"
+    
+    CollarCrimson:
+        Default: "crimson leather collar"
+        Plural: "crimson leather collars"
+        Singular: "crimson leather collar"
+    
+    CollarBlue:
+        Default: "blue leather collar"
+        Plural: "blue leather collars"
+        Singular: "blue leather collar"
+    
+    CollarCyan:
+        Default: "cyan leather collar"
+        Plural: "cyan leather collars"
+        Singular: "cyan leather collar"
+
+    CollarYellow:
+        Default: "yellow leather collar"
+        Plural: "yellow leather collars"
+        Singular: "yellow leather collar"
+
+    CollarLime:
+        Default: "lime leather collar"
+        Plural: "lime leather collars"
+        Singular: "lime leather collar"
+
+    CollarGreen:
+        Default: "green leather collar"
+        Plural: "green leather collars"
+        Singular: "green leather collar"
+        
+    CollarRed:
+        Default: "red leather collar"
+        Plural: "red leather collars"
+        Singular: "red leather collar"
+
+    CollarRainbow:
+        Default: "rainbow leather collar"
+        Plural: "rainbow leather collars"
+        Singular: "rainbow leather collar"
+
+    CollarBlack:
+        Default: "black leather collar"
+        Plural: "black leather collars"
+        Singular: "black leather collar"
+
+    CollarSpikes:
+        Default: "spiky leather collar"
+        Plural: "spiky leather collars"
+        Singular: "spiky leather collar"
+
+    CollarWhite:
+        Default: "white leather collar"
+        Plural: "white leather collars"
+        Singular: "white leather collar"
+
+    CollarPink:
+        Default: "pink leather collar"
+        Plural: "pink leather collars"
+        Singular: "pink leather collar"
+
+    CollarPurple:
+        Default: "purple leather collar"
+        Plural: "purple leather collars"
+        Singular: "purple leather collar"
+
+    CollarMulti:
+        Default: "lilac leather collar"
+        Plural: "lilac leather collars"
+        Singular: "lilac leather collar"
+
+    CollarIndigo:
+        Default: "indigo leather collar"
+        Plural: "indigo leather collars"
+        Singular: "indigo leather collar"
+
+    CollarBellCrimson:
+        Default: "crimson bell collar"
+        Plural: "crimson bell collars"
+        Singular: "crimson bell collar"
+    
+    CollarBellBlue:
+        Default: "blue bell collar"
+        Plural: "blue bell collars"
+        Singular: "blue bell collar"
+    
+    CollarBellCyan:
+        Default: "cyan bell collar"
+        Plural: "cyan bell collars"
+        Singular: "cyan bell collar"
+
+    CollarBellYellow:
+        Default: "yellow bell collar"
+        Plural: "yellow bell collars"
+        Singular: "yellow bell collar"
+
+    CollarBellLime:
+        Default: "lime bell collar"
+        Plural: "lime bell collars"
+        Singular: "lime bell collar"
+
+    CollarBellGreen:
+        Default: "green bell collar"
+        Plural: "green bell collars"
+        Singular: "green bell collar"
+        
+    CollarBellRed:
+        Default: "red bell collar"
+        Plural: "red bell collars"
+        Singular: "red bell collar"
+
+    CollarBellRainbow:
+        Default: "rainbow bell collar"
+        Plural: "rainbow bell collars"
+        Singular: "rainbow bell collar"
+
+    CollarBellBlack:
+        Default: "black bell collar"
+        Plural: "black bell collars"
+        Singular: "black bell collar"
+
+    CollarBellSpikes:
+        Default: "spiky bell collar"
+        Plural: "spiky bell collars"
+        Singular: "spiky bell collar"
+
+    CollarBellWhite:
+        Default: "white bell collar"
+        Plural: "white bell collars"
+        Singular: "white bell collar"
+
+    CollarBellPink:
+        Default: "pink bell collar"
+        Plural: "pink bell collars"
+        Singular: "pink bell collar"
+
+    CollarBellPurple:
+        Default: "purple bell collar"
+        Plural: "purple bell collars"
+        Singular: "purple bell collar"
+
+    CollarBellMulti:
+        Default: "lilac bell collar"
+        Plural: "lilac bell collars"
+        Singular: "lilac bell collar"
+
+    CollarBellIndigo:
+        Default: "indigo bell collar"
+        Plural: "indigo bell collars"
+        Singular: "indigo bell collar"
+
+    CollarBowCrimson:
+        Default: "crimson bow collar"
+        Plural: "crimson bow collars"
+        Singular: "crimson bow collar"
+    
+    CollarBowBlue:
+        Default: "blue bow collar"
+        Plural: "blue bow collars"
+        Singular: "blue bow collar"
+    
+    CollarBowCyan:
+        Default: "cyan bow collar"
+        Plural: "cyan bow collars"
+        Singular: "cyan bow collar"
+
+    CollarBowYellow:
+        Default: "yellow bow collar"
+        Plural: "yellow bow collars"
+        Singular: "yellow bow collar"
+
+    CollarBowLime:
+        Default: "lime bow collar"
+        Plural: "lime bow collars"
+        Singular: "lime bow collar"
+
+    CollarBowGreen:
+        Default: "green bow collar"
+        Plural: "green bow collars"
+        Singular: "green bow collar"
+        
+    CollarBowRed:
+        Default: "red bow collar"
+        Plural: "red bow collars"
+        Singular: "red bow collar"
+
+    CollarBowRainbow:
+        Default: "rainbow bow collar"
+        Plural: "rainbow bow collars"
+        Singular: "rainbow bow collar"
+
+    CollarBowBlack:
+        Default: "black bow collar"
+        Plural: "black bow collars"
+        Singular: "black bow collar"
+
+    CollarBowSpikes:
+        # I dont know why it says gold foil instead of spiky, but thats what it is in the game files; unsure if it is descrepancy or intentional
+        Default: "gold foil bow collar"
+        Plural: "gold foil bow collars"
+        Singular: "gold foil bow collar"
+
+    CollarBowWhite:
+        Default: "white bow collar"
+        Plural: "white bow collars"
+        Singular: "white bow collar"
+
+    CollarBowPink:
+        Default: "pink bow collar"
+        Plural: "pink bow collars"
+        Singular: "pink bow collar"
+
+    CollarBowPurple:
+        Default: "purple bow collar"
+        Plural: "purple bow collars"
+        Singular: "purple bow collar"
+
+    CollarBowMulti:
+        Default: "lilac bow collar"
+        Plural: "lilac bow collars"
+        Singular: "lilac bow collar"
+
+    CollarBowIndigo:
+        Default: "indigo bow collar"
+        Plural: "indigo bow collars"
+        Singular: "indigo bow collar"
+
+    CollarNylonCrimson:
+        Default: "crimson nylon collar"
+        Plural: "crimson nylon collars"
+        Singular: "crimson nylon collar"
+    
+    CollarNylonBlue:
+        Default: "blue nylon collar"
+        Plural: "blue nylon collars"
+        Singular: "blue nylon collar"
+    
+    CollarNylonCyan:
+        Default: "cyan nylon collar"
+        Plural: "cyan nylon collars"
+        Singular: "cyan nylon collar"
+
+    CollarNylonYellow:
+        Default: "yellow nylon collar"
+        Plural: "yellow nylon collars"
+        Singular: "yellow nylon collar"
+
+    CollarNylonLime:
+        Default: "lime nylon collar"
+        Plural: "lime nylon collars"
+        Singular: "lime nylon collar"
+
+    CollarNylonGreen:
+        Default: "green nylon collar"
+        Plural: "green nylon collars"
+        Singular: "green nylon collar"
+        
+    CollarNylonRed:
+        Default: "red nylon collar"
+        Plural: "red nylon collars"
+        Singular: "red nylon collar"
+
+    CollarNylonRainbow:
+        Default: "rainbow nylon collar"
+        Plural: "rainbow nylon collars"
+        Singular: "rainbow nylon collar"
+
+    CollarNylonBlack:
+        Default: "black nylon collar"
+        Plural: "black nylon collars"
+        Singular: "black nylon collar"
+
+    CollarNylonSpikes:
+        # Like CollarBowSpikes, I dont know why it does not say spike
+        Default: "blue and gold nylon collar"
+        Plural: "blue and gold nylon collars"
+        Singular: "blue and gold nylon collar"
+
+    CollarNylonWhite:
+        Default: "white nylon collar"
+        Plural: "white nylon collars"
+        Singular: "white nylon collar"
+
+    CollarNylonPink:
+        Default: "pink nylon collar"
+        Plural: "pink nylon collars"
+        Singular: "pink nylon collar"
+
+    CollarNylonPurple:
+        Default: "purple nylon collar"
+        Plural: "purple nylon collars"
+        Singular: "purple nylon collar"
+
+    CollarNylonMulti:
+        Default: "lilac nylon collar"
+        Plural: "lilac nylon collars"
+        Singular: "lilac nylon collar"
+
+    CollarNylonIndigo:
+        Default: "indigo nylon collar"
+        Plural: "indigo nylon collars"
+        Singular: "indigo nylon collar"

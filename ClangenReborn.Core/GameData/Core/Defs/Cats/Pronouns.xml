@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<PronounDefs>
+	<!-- Id:
+			The id of the pronoun
+   IsPlural:
+			(Optional) determines whether or not his pronoun is plural i.e "They were" vs "He was". 
+			Must be "true" or "false". -->
+	<PronounDef Id = "They" IsPlural = "true">
+		<!-- Pronoun used for the subject of a sentence i.e "They walked in"  -->
+		<Subjective>$(They.Subjective)</Subjective>
+
+		<!-- Pronoun used as an object of a sentence i.e "Follow them!"  -->
+		<Objective>$(They.Objective)</Objective>
+		
+		<!-- Pronoun used when talking about general possession i.e "That is theirs" -->
+		<Possessive>$(They.Possessive)</Possessive>
+
+		<!-- Pronoun used when talking about specific possession i.e "That is their bed" -->
+		<PossessiveAdj>$(They.PossessiveAdj)</PossessiveAdj>
+
+		<!-- Pronoun used when refering to ones self i.e "Can't do it by themself" -->
+		<Reflexive>$(They.Reflexive)</Reflexive>
+	</PronounDef>
+	<PronounDef Id = "He">
+		<Subjective>$(He.Subjective)</Subjective>
+		<Objective>$(He.Objective)</Objective>
+		<Possessive>$(He.Possessive)</Possessive>
+		<PossessiveAdj>$(He.PossessiveAdj)</PossessiveAdj>
+		<Reflexive>$(He.Reflexive)</Reflexive>
+	</PronounDef>
+	<PronounDef Id = "She">
+		<Subjective>$(She.Subjective)</Subjective>
+		<Objective>$(She.Objective)</Objective>
+		<Possessive>$(She.Possessive)</Possessive>
+		<PossessiveAdj>$(She.PossessiveAdj)</PossessiveAdj>
+		<Reflexive>$(She.Reflexive)</Reflexive>
+	</PronounDef>
+</PronounDefs>

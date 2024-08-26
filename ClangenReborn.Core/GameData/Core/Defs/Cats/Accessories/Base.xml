@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<!-- Id:
+			The id of an accessory -->
+	<Accessory Id = "MapleLeaf">
+		<!-- (Optional) What to display on the cat profile -->
+		<Display>$(Accessory.MapleLeaf.Default)</Display>
+		
+		<!-- (Optional) The plural noun of this accessory, used in events. Will default to display -->
+		<DisplayPlural>$(Accessory.MapleLeaf.Plural)</DisplayPlural>
+		
+		<!-- (Optional) The singular noun of this accessory, used in events. Will default to display -->
+		<DisplaySingular>$(Accessory.MapleLeaf.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Holly">
+		<Display>$(Accessory.Holly.Default)</Display>
+		<DisplayPlural>$(Accessory.Holly.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Holly.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "BlueBerries">
+		<Display>$(Accessory.BlueBerries.Default)</Display>
+		<DisplayPlural>$(Accessory.BlueBerries.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.BlueBerries.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "ForgetMeNots">
+		<Display>$(Accessory.ForgetMeNots.Default)</Display>
+		<DisplayPlural>$(Accessory.ForgetMeNots.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.ForgetMeNots.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "RyeStalk">
+		<Display>$(Accessory.RyeStalk.Default)</Display>
+		<DisplayPlural>$(Accessory.RyeStalk.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.RyeStalk.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Laurel">
+		<Display>$(Accessory.Laurel.Default)</Display>
+		<DisplayPlural>$(Accessory.Laurel.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Laurel.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Bluebells">
+		<Display>$(Accessory.Bluebells.Default)</Display>
+		<DisplayPlural>$(Accessory.Bluebells.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Bluebells.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Nettle">
+		<Display>$(Accessory.Nettle.Default)</Display>
+		<DisplayPlural>$(Accessory.Nettle.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Nettle.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Poppy">
+		<Display>$(Accessory.Poppy.Default)</Display>
+		<DisplayPlural>$(Accessory.Poppy.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Poppy.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Lavender">
+		<Display>$(Accessory.Lavender.Default)</Display>
+		<DisplayPlural>$(Accessory.Lavender.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Lavender.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Herbs">
+		<Display>$(Accessory.Herbs.Default)</Display>
+		<DisplayPlural>$(Accessory.Herbs.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Herbs.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Petals">
+		<Display>$(Accessory.Petals.Default)</Display>
+		<DisplayPlural>$(Accessory.Petals.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Petals.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "DryHerbs">
+		<Display>$(Accessory.DryHerbs.Default)</Display>
+		<DisplayPlural>$(Accessory.DryHerbs.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.DryHerbs.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "DryCatmint">
+		<Display>$(Accessory.DryCatmint.Default)</Display>
+		<DisplayPlural>$(Accessory.DryCatmint.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.DryCatmint.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "DryNettles">
+		<Display>$(Accessory.DryNettles.Default)</Display>
+		<DisplayPlural>$(Accessory.DryNettles.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.DryNettles.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "OakLeaves">
+		<Display>$(Accessory.OakLeaves.Default)</Display>
+		<DisplayPlural>$(Accessory.OakLeaves.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.OakLeaves.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Catmint">
+		<Display>$(Accessory.Catmint.Default)</Display>
+		<DisplayPlural>$(Accessory.Catmint.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Catmint.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "MapleSeed">
+		<Display>$(Accessory.MapleSeed.Default)</Display>
+		<DisplayPlural>$(Accessory.MapleSeed.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.MapleSeed.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Juniper">
+		<Display>$(Accessory.Juniper.Default)</Display>
+		<DisplayPlural>$(Accessory.Juniper.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Juniper.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "RedFeathers">
+		<Display>$(Accessory.RedFeathers.Default)</Display>
+		<DisplayPlural>$(Accessory.RedFeathers.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.RedFeathers.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "BlueFeathers">
+		<Display>$(Accessory.BlueFeathers.Default)</Display>
+		<DisplayPlural>$(Accessory.BlueFeathers.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.BlueFeathers.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "JayFeathers">
+		<Display>$(Accessory.JayFeathers.Default)</Display>
+		<DisplayPlural>$(Accessory.JayFeathers.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.JayFeathers.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "MothWings">
+		<Display>$(Accessory.MothWings.Default)</Display>
+		<DisplayPlural>$(Accessory.MothWings.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.MothWings.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CicadaWings">
+		<Display>$(Accessory.CicadaWings.Default)</Display>
+		<DisplayPlural>$(Accessory.CicadaWings.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CicadaWings.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "OrangePoppy">
+		<Display>$(Accessory.OrangePoppy.Default)</Display>
+		<DisplayPlural>$(Accessory.OrangePoppy.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.OrangePoppy.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CyanPoppy">
+		<Display>$(Accessory.CyanPoppy.Default)</Display>
+		<DisplayPlural>$(Accessory.CyanPoppy.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CyanPoppy.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "WhitePoppy">
+		<Display>$(Accessory.WhitePoppy.Default)</Display>
+		<DisplayPlural>$(Accessory.WhitePoppy.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.WhitePoppy.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "PinkPoppy">
+		<Display>$(Accessory.PinkPoppy.Default)</Display>
+		<DisplayPlural>$(Accessory.PinkPoppy.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.PinkPoppy.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Clover">
+		<Display>$(Accessory.Clover.Default)</Display>
+		<DisplayPlural>$(Accessory.Clover.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Clover.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Daisy">
+		<Display>$(Accessory.Daisy.Default)</Display>
+		<DisplayPlural>$(Accessory.Daisy.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Daisy.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "LilyOfTheValley">
+		<Display>$(Accessory.LilyOfTheValley.Default)</Display>
+		<DisplayPlural>$(Accessory.LilyOfTheValley.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.LilyOfTheValley.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Heather">
+		<Display>$(Accessory.Heather.Default)</Display>
+		<DisplayPlural>$(Accessory.Heather.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Heather.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "SnapDragon">
+		<Display>$(Accessory.SnapDragon.Default)</Display>
+		<DisplayPlural>$(Accessory.SnapDragon.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.SnapDragon.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Gorse">
+		<Display>$(Accessory.Gorse.Default)</Display>
+		<DisplayPlural>$(Accessory.Gorse.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Gorse.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "BulbWhite">
+		<Display>$(Accessory.BulbWhite.Default)</Display>
+		<DisplayPlural>$(Accessory.BulbWhite.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.BulbWhite.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "BulbYellow">
+		<Display>$(Accessory.BulbYellow.Default)</Display>
+		<DisplayPlural>$(Accessory.BulbYellow.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.BulbYellow.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "BulbOrange">
+		<Display>$(Accessory.BulbOrange.Default)</Display>
+		<DisplayPlural>$(Accessory.BulbOrange.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.BulbOrange.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "BulbPink">
+		<Display>$(Accessory.BulbPink.Default)</Display>
+		<DisplayPlural>$(Accessory.BulbPink.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.BulbPink.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "BulbBlue">
+		<Display>$(Accessory.BulbBlue.Default)</Display>
+		<DisplayPlural>$(Accessory.BulbBlue.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.BulbBlue.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Raspberry">
+		<Display>$(Accessory.Raspberry.Default)</Display>
+		<DisplayPlural>$(Accessory.Raspberry.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Raspberry.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "Cattail">
+		<Display>$(Accessory.Cattail.Default)</Display>
+		<DisplayPlural>$(Accessory.Cattail.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.Cattail.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "GullFeathers">
+		<Display>$(Accessory.GullFeathers.Default)</Display>
+		<DisplayPlural>$(Accessory.GullFeathers.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.GullFeathers.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "SparrowFeathers">
+		<Display>$(Accessory.SparrowFeathers.Default)</Display>
+		<DisplayPlural>$(Accessory.SparrowFeathers.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.SparrowFeathers.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "RosyMothWings">
+		<Display>$(Accessory.RosyMothWings.Default)</Display>
+		<DisplayPlural>$(Accessory.RosyMothWings.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.RosyMothWings.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "MorphoButterfly">
+		<Display>$(Accessory.MorphoButterfly.Default)</Display>
+		<DisplayPlural>$(Accessory.MorphoButterfly.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.MorphoButterfly.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "MonarchButterfly">
+		<Display>$(Accessory.MonarchButterfly.Default)</Display>
+		<DisplayPlural>$(Accessory.MonarchButterfly.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.MonarchButterfly.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "BlackCicada">
+		<Display>$(Accessory.BlackCicada.Default)</Display>
+		<DisplayPlural>$(Accessory.BlackCicada.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.BlackCicada.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarCrimson">
+		<Display>$(Accessory.CollarCrimson.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarCrimson.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarCrimson.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBlue">
+		<Display>$(Accessory.CollarBlue.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBlue.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBlue.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarCyan">
+		<Display>$(Accessory.CollarCyan.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarCyan.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarCyan.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarYellow">
+		<Display>$(Accessory.CollarYellow.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarYellow.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarYellow.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarLime">
+		<Display>$(Accessory.CollarLime.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarLime.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarLime.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarGreen">
+		<Display>$(Accessory.CollarGreen.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarGreen.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarGreen.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarRed">
+		<Display>$(Accessory.CollarRed.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarRed.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarRed.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarRainbow">
+		<Display>$(Accessory.CollarRainbow.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarRainbow.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarRainbow.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBlack">
+		<Display>$(Accessory.CollarBlack.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBlack.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBlack.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarSpikes">
+		<Display>$(Accessory.CollarSpikes.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarSpikes.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarSpikes.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarWhite">
+		<Display>$(Accessory.CollarWhite.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarWhite.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarWhite.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarPink">
+		<Display>$(Accessory.CollarPink.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarPink.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarPink.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarPurple">
+		<Display>$(Accessory.CollarPurple.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarPurple.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarPurple.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarMulti">
+		<Display>$(Accessory.CollarMulti.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarMulti.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarMulti.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarIndigo">
+		<Display>$(Accessory.CollarIndigo.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarIndigo.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarIndigo.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellCrimson">
+		<Display>$(Accessory.CollarBellCrimson.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellCrimson.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellCrimson.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellBlue">
+		<Display>$(Accessory.CollarBellBlue.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellBlue.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellBlue.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellCyan">
+		<Display>$(Accessory.CollarBellCyan.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellCyan.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellCyan.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellYellow">
+		<Display>$(Accessory.CollarBellYellow.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellYellow.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellYellow.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellLime">
+		<Display>$(Accessory.CollarBellLime.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellLime.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellLime.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellGreen">
+		<Display>$(Accessory.CollarBellGreen.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellGreen.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellGreen.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellRed">
+		<Display>$(Accessory.CollarBellRed.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellRed.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellRed.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellRainbow">
+		<Display>$(Accessory.CollarBellRainbow.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellRainbow.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellRainbow.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellBlack">
+		<Display>$(Accessory.CollarBellBlack.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellBlack.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellBlack.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellSpikes">
+		<Display>$(Accessory.CollarBellSpikes.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellSpikes.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellSpikes.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellWhite">
+		<Display>$(Accessory.CollarBellWhite.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellWhite.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellWhite.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellPink">
+		<Display>$(Accessory.CollarBellPink.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellPink.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellPink.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellPurple">
+		<Display>$(Accessory.CollarBellPurple.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellPurple.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellPurple.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellMulti">
+		<Display>$(Accessory.CollarBellMulti.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellMulti.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellMulti.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBellIndigo">
+		<Display>$(Accessory.CollarBellIndigo.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBellIndigo.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBellIndigo.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowCrimson">
+		<Display>$(Accessory.CollarBowCrimson.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowCrimson.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowCrimson.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowBlue">
+		<Display>$(Accessory.CollarBowBlue.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowBlue.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowBlue.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowCyan">
+		<Display>$(Accessory.CollarBowCyan.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowCyan.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowCyan.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowYellow">
+		<Display>$(Accessory.CollarBowYellow.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowYellow.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowYellow.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowLime">
+		<Display>$(Accessory.CollarBowLime.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowLime.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowLime.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowGreen">
+		<Display>$(Accessory.CollarBowGreen.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowGreen.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowGreen.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowRed">
+		<Display>$(Accessory.CollarBowRed.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowRed.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowRed.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowRainbow">
+		<Display>$(Accessory.CollarBowRainbow.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowRainbow.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowRainbow.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowBlack">
+		<Display>$(Accessory.CollarBowBlack.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowBlack.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowBlack.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowSpikes">
+		<Display>$(Accessory.CollarBowSpikes.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowSpikes.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowSpikes.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowWhite">
+		<Display>$(Accessory.CollarBowWhite.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowWhite.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowWhite.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowPink">
+		<Display>$(Accessory.CollarBowPink.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowPink.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowPink.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowPurple">
+		<Display>$(Accessory.CollarBowPurple.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowPurple.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowPurple.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowMulti">
+		<Display>$(Accessory.CollarBowMulti.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowMulti.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowMulti.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarBowIndigo">
+		<Display>$(Accessory.CollarBowIndigo.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarBowIndigo.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarBowIndigo.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonCrimson">
+		<Display>$(Accessory.CollarNylonCrimson.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonCrimson.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonCrimson.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonBlue">
+		<Display>$(Accessory.CollarNylonBlue.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonBlue.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonBlue.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonCyan">
+		<Display>$(Accessory.CollarNylonCyan.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonCyan.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonCyan.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonYellow">
+		<Display>$(Accessory.CollarNylonYellow.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonYellow.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonYellow.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonLime">
+		<Display>$(Accessory.CollarNylonLime.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonLime.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonLime.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonGreen">
+		<Display>$(Accessory.CollarNylonGreen.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonGreen.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonGreen.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonRed">
+		<Display>$(Accessory.CollarNylonRed.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonRed.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonRed.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonRainbow">
+		<Display>$(Accessory.CollarNylonRainbow.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonRainbow.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonRainbow.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonBlack">
+		<Display>$(Accessory.CollarNylonBlack.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonBlack.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonBlack.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonSpikes">
+		<Display>$(Accessory.CollarNylonSpikes.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonSpikes.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonSpikes.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonWhite">
+		<Display>$(Accessory.CollarNylonWhite.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonWhite.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonWhite.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonPink">
+		<Display>$(Accessory.CollarNylonPink.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonPink.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonPink.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonPurple">
+		<Display>$(Accessory.CollarNylonPurple.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonPurple.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonPurple.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonMulti">
+		<Display>$(Accessory.CollarNylonMulti.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonMulti.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonMulti.Singular)</DisplaySingular>
+	</Accessory>
+
+	<Accessory Id = "CollarNylonIndigo">
+		<Display>$(Accessory.CollarNylonIndigo.Default)</Display>
+		<DisplayPlural>$(Accessory.CollarNylonIndigo.Plural)</DisplayPlural>
+		<DisplaySingular>$(Accessory.CollarNylonIndigo.Singular)</DisplaySingular>
+	</Accessory>
+
+
+
+</Defs>

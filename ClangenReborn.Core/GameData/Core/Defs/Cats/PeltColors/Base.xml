@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<PeltColorDefs>
+	<PeltColor>White</PeltColor>
+	<PeltColor>Palegrey</PeltColor>
+	<PeltColor>Silver</PeltColor>
+	<PeltColor>Grey</PeltColor>
+	<PeltColor>Darkgrey</PeltColor>
+	<PeltColor>Ghost</PeltColor>
+	<PeltColor>Black</PeltColor>
+	<PeltColor>Cream</PeltColor>
+	<PeltColor>Paleginger</PeltColor>
+	<PeltColor>Golden</PeltColor>
+	<PeltColor>Ginger</PeltColor>
+	<PeltColor>Darkginger</PeltColor>
+	<PeltColor>Sienna</PeltColor>
+	<PeltColor>Lightbrown</PeltColor>
+	<PeltColor>Lilac</PeltColor>
+	<PeltColor>Brown</PeltColor>
+	<PeltColor>Goldbrown</PeltColor>
+	<PeltColor>Darkbrown</PeltColor>
+	<PeltColor>Chocolate</PeltColor>
+</PeltColorDefs>

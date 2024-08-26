@@ -1,0 +1,16 @@
+<ConfigDef>
+  <LastPlayedVersion>0</LastPlayedVersion>
+  <ActiveMods>
+    <li>core</li>
+  </ActiveMods>
+  <CheckForUpdates>true</CheckForUpdates>
+  <ShowChangelog>true</ShowChangelog>
+  <AutosaveInterval>15</AutosaveInterval>
+  <Language>LEnglish</Language>
+  <IsFullscreen>false</IsFullscreen>
+  <IsDarkMode>true</IsDarkMode>
+  <CustomCursorAllowed>true</CustomCursorAllowed>
+  <ShadersAllowed>false</ShadersAllowed>
+  <GoreAllowed>false</GoreAllowed>
+  <DiscordIntegration>false</DiscordIntegration>
+</ConfigDef>
